@@ -1,5 +1,6 @@
 ## Oiii eu sou a Thalita Otavio, criadora de conteúdo de programação e tecnologia!
 
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,5 +15,11 @@
   ##
  
 <div> 
+  <a href="https://instagram.com/_thalitazx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thalita.andrade25112004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
+<div>
+  <a href="https://beacons.ai/Thallyotavio">
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username=Thallyotavio28&show_icon=true&theme=dracula&include_all_comits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=Thallyotavio2&1ayout-compact&angs_count-16&theme-dracula"/>
 </div>
